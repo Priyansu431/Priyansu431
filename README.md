@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Priyansu Prasad
+- 👋 &nbsp;Hi, I’m Priyansu Prasad
 
-- 📫 How to reach me ... prnsprsad431@hotmail.com
+- 📫 &nbsp;How to reach me ... prnsprsad431@hotmail.com
 
 <!---
 Priyansu431/Priyansu431 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
