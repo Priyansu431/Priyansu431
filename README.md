@@ -6,10 +6,11 @@
 
 <br>
 
-![Priyansu's github page views](https://komarev.com/ghpvc/?username=Priyansu431)
-
-
 <!---
+[![Priyansu's github page views](https://komarev.com/ghpvc/?username=Priyansu431)](url)
+
+
+
 Priyansu431/Priyansu431 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
